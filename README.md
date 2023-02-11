@@ -20,8 +20,11 @@
 
 My name is Muhammad Naja I'm a Software Engineer based in Egypt. I describe myself as a passionate developer who loves coding, open source, and the web platform ❤️.
 
-I enjoy creating and contributing to open-source projects outside of my job. In addition to learning a lot of new stuff, I'm able to grow as a developer by supporting other open-source projects. My blog also contains technical articles that I enjoy writing.
+I enjoy creating and contributing to open-source projects outside of my job. In addition to learning a lot of new stuff, I'm able to grow as a developer by supporting 
+other open-source projects. My blog also contains technical articles that I enjoy writing.
 
 In order to better myself and others, I'm always striving to learn more and more.
----
 
+# 🤹‍♀️ Skills
+
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/storybook-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" /></div>
