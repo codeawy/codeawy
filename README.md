@@ -16,7 +16,7 @@
 
 <br/> -->
 
-# 👩‍💻 Muhammad Naja
+# 👩‍💻 Muhammad Naja (codeawy)
 
 Greetings! My name is Muhammad Naja, and I am a dedicated developer with a strong love for coding and teaching. My primary objective is to assist others in learning how to program, and I'm making it my mission to enrich technical content as much as possible, particularly in the Arabic language. As an Egyptian and Arab, I take pride in my culture and heritage, and I believe that by providing quality Arabic content, I can help spread knowledge and empower others in my community.
 
