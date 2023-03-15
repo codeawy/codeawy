@@ -18,12 +18,11 @@
 
 # 👩‍💻 Muhammad Naja
 
-My name is Muhammad Naja I'm a Software Engineer based in Egypt. I describe myself as a passionate developer who loves coding, open source, and the web platform ❤️.
+Greetings! My name is Muhammad Naja, and I am a dedicated developer with a strong love for coding and teaching. My primary objective is to assist others in learning how to program, and I'm making it my mission to enrich technical content as much as possible, particularly in the Arabic language. As an Egyptian and Arab, I take pride in my culture and heritage, and I believe that by providing quality Arabic content, I can help spread knowledge and empower others in my community.
 
-I enjoy creating and contributing to open-source projects outside of my job. In addition to learning a lot of new stuff, I'm able to grow as a developer by supporting 
-other open-source projects. My blog also contains technical articles that I enjoy writing.
+I am always eager to learn and grow, both as an individual and as a developer. I believe that education is a lifelong process, and I am committed to constantly improving myself and those around me. Through my passion for coding, I have been able to create reusable UI components and manage the state of those components efficiently. React.js, an open-source JavaScript library, has been particularly useful for me in building user interfaces. Developed by Facebook, React.js is now maintained by a community of individual developers and companies and is widely used for web development, mobile app development, and desktop app development.
 
-In order to better myself and others, I'm always striving to learn more and more.
+Thank you for taking the time to read about my journey as a developer, and I hope to continue learning and growing with you.
 
 # 🤹‍♀️ Skills
 
