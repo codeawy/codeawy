@@ -16,7 +16,7 @@
 
 <br/> -->
 
-# 👩‍💻 Muhammad Naja (codeawy)
+# 👩‍💻 Muhammad Naga (codeawy)
 
 As a software engineer, I am passionate about staying up-to-date with the latest technologies and tools in the industry. I am always on the lookout for opportunities to learn, grow, and expand my skill set.
 
