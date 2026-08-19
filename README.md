@@ -1,41 +1,91 @@
-<!-- <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Muhammad+Naja+-+Software+Engineer;%2B5+Years+of+coding+Experience+;Always+learning+new+things" alt="Typing SVG" /></a>
-  
+<h1 align="center">Hi 👋, I'm Muhammad Naga</h1>
+<h3 align="center">Senior Full-Stack Developer • React Native/Expo • Next.js • NestJS</h3>
 
-</p> -->
-
-<!-- Social icons section -->
-<!-- <p align="center">
-  <a href="https://www.youtube.com/@codeawy"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/lJdUxn6.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/DenverCoder1"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/3YU1CER.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.codeawy.com/" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/JU4wMxu.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
+<p align="center">
+  <a href="https://www.youtube.com/@codeawy"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/codeawy/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://wa.me/201092107785"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
 
-<br/> -->
+---
 
-# 👩‍💻 Muhammad Naga (codeawy)
+### 🚀 About Me
 
-As a software engineer, I am passionate about staying up-to-date with the latest technologies and tools in the industry. I am always on the lookout for opportunities to learn, grow, and expand my skill set.
+I'm a full-stack developer who ships production apps end to end — mobile, web, and backend. Freelance work sits alongside a growing YouTube channel and online coding groups where I teach React Native, Expo, and NestJS from first principles.
 
-My solid foundation in data structures, algorithms, object-oriented programming, and design patterns has allowed me to develop efficient, maintainable, and scalable code. I am proficient in JavaScript and TypeScript and have extensive experience working with React and Redux. I have also worked with Next.js, GraphQl, Sass, Tailwind CSS, and other front-end technologies.
+- 🔭 Currently building **PhantomJSON** and **NativePilot** — two developer-focused tools I'm actively shipping
+- 🌱 Deep-diving into **frontend system design**: architecture, caching, and performance at scale
+- 🧭 Exploring open source contributions across the React/TypeScript ecosystem
+- 🎓 Teaching React Native, Expo, NestJS, Angular & Next.js through structured courses and content
+- 💼 Freelancing on client projects spanning booking platforms, e-commerce, and admin dashboards
+- ⚡ Fun fact: I'll pick a Turborepo monorepo over a single repo 10 times out of 10
 
-In addition, I understand the importance of testing and have experience in both unit and integration testing. I am comfortable working with AWS, Docker, Git, and Github, and am always eager to learn more about these technologies and others.
+---
 
-I am a strong communicator and a collaborative team player and enjoy working in a fast-paced environment. I am also comfortable working independently and taking ownership of projects. I am constantly seeking new challenges and opportunities to learn and grow as a software engineer.
+### 🛠️ Tech Stack
 
-One of my greatest strengths is my ability to learn quickly and adapt to new technologies and tools. I am always looking for ways to expand my skill set and stay on top of the latest trends in the industry.
+**Languages**
+<br/>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-I am also committed to writing clean, maintainable, and efficient code. I understand the importance of code quality and strive to produce code that is easy to read, understand, and maintain.
+**Mobile**
+<br/>
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![NativeWind](https://img.shields.io/badge/NativeWind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![MMKV](https://img.shields.io/badge/MMKV-4B32C3?style=for-the-badge)
+![EAS Build](https://img.shields.io/badge/EAS_Build-000020?style=for-the-badge&logo=expo&logoColor=white)
 
-In addition, I am experienced in agile development methodologies and have worked in both small and large teams. I am comfortable with project management tools such as Jira, Trello, and Asana, and am able to effectively communicate project progress and status updates to stakeholders.
+**Web / Frontend**
+<br/>
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-433E38?style=for-the-badge)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Shadcn/UI](https://img.shields.io/badge/Shadcn/UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
-Outside of work, I enjoy contributing to open-source projects and participating in coding communities. I believe in the importance of giving back to the tech community and helping others learn and grow.
+**Backend**
+<br/>
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![TypeORM](https://img.shields.io/badge/TypeORM-FE0902?style=for-the-badge)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
-Thank you for taking the time to learn more about me. I look forward to the opportunity to work with you and contribute my skills and knowledge to your team.
+**Tooling & Infra**
+<br/>
+![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white)
+![pnpm](https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 
-# 🤹‍♀️ Skills
+### 🎥 Teaching & Content
 
-<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="86" height="86" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="86" height="86" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="86" height="86" /><img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="86" height="86" /><img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="86" height="86" /><img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="86" height="86" /><img src="https://techstack-generator.vercel.app/gatsby-icon.svg" alt="icon" width="86" height="86" /><img src="https://techstack-generator.vercel.app/jest-icon.svg" alt="icon" width="86" height="86" /><img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="icon" width="86" height="86" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="86" height="86" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="86" height="86" /><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="86" height="86" /><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="86" height="86" /></div>
+I break down React Native, Expo, NestJS, Angular, and Next.js concepts using a **What → Why → When → How** framework — theory first, then real code. If you're learning to ship production-grade apps (not just tutorials), my content is built for you.
+
+---
+
+### 📫 Let's Connect
+
+<p align="left">
+  <a href="https://www.youtube.com/@codeawy"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/lJdUxn6.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.linkedin.com/in/codeawy/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/></a>
+</p>
+
+<p align="center">
+  <i>⭐️ If you find my work useful, consider giving my repos a star!</i>
+</p>
