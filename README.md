@@ -53,24 +53,131 @@ I'm a full-stack developer who ships production apps end to end — mobile, web,
 **Backend**
 <br/>
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![TypeORM](https://img.shields.io/badge/TypeORM-FE0902?style=for-the-badge)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
-**Tooling & Infra**
+**DevOps & Cloud**
 <br/>
-![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white)
-![pnpm](https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
-![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+**Messaging & Queues**
+<br/>
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![BullMQ](https://img.shields.io/badge/BullMQ-FFFFFF?style=for-the-badge)
+
+**Monitoring & Observability**
+<br/>
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-425CC7?style=for-the-badge)
+
+**Testing & Tooling**
+<br/>
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Supertest](https://img.shields.io/badge/Supertest-66CFD4?style=for-the-badge)
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-333333?style=for-the-badge)
+![gRPC](https://img.shields.io/badge/gRPC-000000?style=for-the-badge)
+
+---
+
+### 📚 Backend Engineering Roadmap
+
+A comprehensive, structured learning system covering **65,000+ lines** of content across **12 levels** — from JavaScript fundamentals to senior-level system design.
+
+> **[📖 Full Roadmap](https://github.com/codeawy/backend-engineering-roadmap)**
+
+```text
+Level 01: Backend Foundations          ████████████████████████ 24K lines
+Level 02: Databases & Data Management ███████ 7K lines
+Level 03: NestJS Core                  ███ 3K lines
+Level 04: Authentication & Security    ████ 4K lines
+Level 05: Testing & Quality            ███ 3K lines
+Level 06: Caching, Queues & Jobs       ███ 3K lines
+Level 07: API Development              █████ 5K lines
+Level 08: Architecture & Design        █████ 6K lines
+Level 09: Microservices                █████ 5K lines
+Level 10: DevOps & Cloud               ██ 3K lines
+Level 11: Observability & Performance  █ 1.5K lines
+Level 12: Senior Engineer Skills       █ 1.5K lines
+```
+
+#### 🟢 Level 01 — Backend Foundations
+`JavaScript Fundamentals` · `JavaScript Deep Dives` · `Async Programming` · `TypeScript` · `Node.js Runtime` · `HTTP Protocol` · `Networking Fundamentals` · `Error Handling` · `Git & GitHub` · `Data Structures & Algorithms`
+
+#### 🟡 Level 02 — Databases & Data Management
+`PostgreSQL` · `SQL Deep Dive` · `TypeORM` · `MongoDB` · `NoSQL` · `Schema Design` · `Migrations` · `Query Optimization` · `Indexing`
+
+#### 🟠 Level 03 — NestJS Core
+`Modules` · `Controllers` · `Providers` · `Dependency Injection` · `DTOs` · `Validation` · `Pipes` · `Guards` · `Interceptors` · `Middleware` · `Exception Filters` · `Custom Decorators` · `Configuration` · `Logging` · `Health Checks` · `Scheduling`
+
+#### 🔐 Level 04 — Authentication & Security
+`JWT` · `Refresh Tokens` · `OAuth 2.0` · `OpenID Connect` · `Social Auth` · `MFA` · `RBAC` · `Permission-Based Access` · `CORS` · `CSRF` · `XSS Prevention` · `SQL Injection Prevention` · `OWASP Top 10` · `Rate Limiting` · `Secrets Management`
+
+#### 🧪 Level 05 — Testing & Quality
+`Jest` · `Supertest` · `Unit Testing` · `Integration Testing` · `E2E Testing` · `Mocking` · `Test Doubles` · `Test Coverage` · `TDD` · `BDD` · `Contract Testing` · `ESLint` · `Prettier` · `Husky`
+
+#### 🔵 Level 06 — Caching, Queues & Background Jobs
+`Redis` · `Caching Strategies` · `Cache Invalidation` · `BullMQ` · `Job Queues` · `Retry Strategies` · `Dead Letter Queues` · `RabbitMQ` · `Apache Kafka` · `Pub/Sub` · `Distributed Locks`
+
+#### 🟣 Level 07 — API Development & Communication
+`REST API Design` · `HTTP Semantics` · `Pagination` · `OpenAPI/Swagger` · `GraphQL` · `DataLoaders` · `N+1 Problem` · `WebSockets` · `Socket.IO` · `Server-Sent Events` · `Webhooks` · `gRPC` · `Protocol Buffers`
+
+#### 🔴 Level 08 — Architecture & System Design
+`Layered Architecture` · `Clean Architecture` · `Hexagonal Architecture` · `Domain-Driven Design` · `Bounded Contexts` · `SOLID Principles` · `Design Patterns` · `System Design` · `Scalability` · `CAP Theorem` · `Load Balancing` · `Capacity Estimation`
+
+#### 🟤 Level 09 — Microservices & Event-Driven Architecture
+`Microservices Architecture` · `Service Boundaries` · `API Gateway` · `Service Discovery` · `Event Sourcing` · `CQRS` · `Saga Pattern` · `Transactional Outbox` · `Circuit Breaker` · `Bulkhead Pattern` · `Distributed Tracing` · `Resilience Patterns`
+
+#### ⚙️ Level 10 — DevOps, Deployment & Cloud
+`Docker` · `Docker Compose` · `Kubernetes` · `Helm` · `GitHub Actions` · `CI/CD Pipelines` · `Blue-Green Deployment` · `Canary Deployment` · `AWS` · `Azure` · `GCP` · `Terraform` · `Infrastructure as Code`
+
+#### 📊 Level 11 — Observability & Performance
+`Prometheus` · `Grafana` · `SLIs/SLOs/SLAs` · `Structured Logging` · `ELK/EFK Stack` · `OpenTelemetry` · `Distributed Tracing` · `Jaeger` · `Load Testing` · `k6` · `Profiling` · `Performance Optimization`
+
+#### 🏆 Level 12 — Senior Backend Engineer Skills
+`Code Reviews` · `Refactoring` · `Technical Documentation` · `ADRs` · `Incident Management` · `Postmortems` · `Root Cause Analysis` · `Disaster Recovery` · `Technical Leadership` · `Mentoring` · `System Design Interviews`
+
+---
+
+### 🎯 Skills Matrix
+
+| Category | Skills |
+|----------|--------|
+| **Languages** | JavaScript, TypeScript, SQL |
+| **Runtime** | Node.js (V8, libuv, Event Loop) |
+| **Framework** | NestJS (Modules, DI, Guards, Pipes, Interceptors) |
+| **Databases** | PostgreSQL, MongoDB, TypeORM, Prisma |
+| **Caching** | Redis (data structures, TTL, pub/sub, distributed locks) |
+| **Message Brokers** | RabbitMQ, Apache Kafka, BullMQ |
+| **API Design** | REST, GraphQL, gRPC, WebSockets, SSE, Webhooks |
+| **Authentication** | JWT, OAuth 2.0, MFA, RBAC, Session Management |
+| **Security** | OWASP Top 10, CORS, CSRF, XSS, Rate Limiting |
+| **Architecture** | Clean Architecture, DDD, SOLID, Design Patterns |
+| **Microservices** | Event Sourcing, CQRS, Saga, Circuit Breaker |
+| **DevOps** | Docker, Kubernetes, Helm, GitHub Actions, Terraform |
+| **Cloud** | AWS, Azure, GCP (compute, storage, networking, IAM) |
+| **Monitoring** | Prometheus, Grafana, OpenTelemetry, Jaeger |
+| **Logging** | ELK Stack, Structured Logging, Error Tracking |
+| **Testing** | Jest, Supertest, Unit/Integration/E2E, TDD |
+| **Version Control** | Git (branching, merging, rebasing, workflows) |
+| **Data Structures** | Arrays, Hash Tables, BST, Heaps, Sorting, Big O |
+
+---
 
 ### 🎥 Teaching & Content
 
