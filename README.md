@@ -11,9 +11,7 @@
 
 ### 👋 About Me
 
-Full-stack developer building across mobile, web, and backend. I ship production apps with **React Native/Expo**, **Next.js**, and **NestJS** — and I teach what I learn on [YouTube](https://www.youtube.com/@codeawy) and in online communities.
-
-Currently building **PhantomJSON** and **NativePilot**. Deep-diving into system design, backend architecture, and DevOps. Always learning, always shipping.
+Full-stack developer with hands-on experience across the entire development lifecycle — from designing backend architecture and building REST/GraphQL APIs to deploying scalable systems on cloud infrastructure. I work with **TypeScript**, **NestJS**, **React Native**, and **Next.js** to ship production applications, and I share what I learn through [YouTube](https://www.youtube.com/@codeawy) and developer communities.
 
 ---
 
