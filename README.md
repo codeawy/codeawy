@@ -9,16 +9,11 @@
 
 ---
 
-### 🚀 About Me
+### 👋 About Me
 
-I'm a full-stack developer who ships production apps end to end — mobile, web, and backend. Freelance work sits alongside a growing YouTube channel and online coding groups where I teach React Native, Expo, and NestJS from first principles.
+Full-stack developer building across mobile, web, and backend. I ship production apps with **React Native/Expo**, **Next.js**, and **NestJS** — and I teach what I learn on [YouTube](https://www.youtube.com/@codeawy) and in online communities.
 
-- 🔭 Currently building **PhantomJSON** and **NativePilot** — two developer-focused tools I'm actively shipping
-- 🌱 Deep-diving into **frontend system design**: architecture, caching, and performance at scale
-- 🧭 Exploring open source contributions across the React/TypeScript ecosystem
-- 🎓 Teaching React Native, Expo, NestJS, Angular & Next.js through structured courses and content
-- 💼 Freelancing on client projects spanning booking platforms, e-commerce, and admin dashboards
-- ⚡ Fun fact: I'll pick a Turborepo monorepo over a single repo 10 times out of 10
+Currently building **PhantomJSON** and **NativePilot**. Deep-diving into system design, backend architecture, and DevOps. Always learning, always shipping.
 
 ---
 
